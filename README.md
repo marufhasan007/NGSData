@@ -122,11 +122,11 @@ source("RNAseq_DESeq2_Script.R")
 
 ## Purpose
 
-This RNA-seq pipeline is tailored for hypothesis testing of **dietary or genetic effects** on gene expression in **livestock models**, particularly under conditions affecting **mineral metabolism** and **vitamin D regulation**.
+This RNA-seq pipeline is tailored for hypothesis testing of **dietary or genetic effects** on gene expression in **Animal models**, particularly under conditions affecting **mineral metabolism** and **vitamin D regulation**.
 
 ---
 
 ## Author
 
 **Maruf Hasan**  
-Interests: Transcriptomics | Vitamin D | Mineral metabolism | Livestock models 
+*Interests: Aging biology | Bioinformatics | Healthspan modeling | Translational research*
